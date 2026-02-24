@@ -58,3 +58,4 @@ Example columns:
 sentiment
 
 text / tweet / message (depending on dataset)
+OUTPUT:<img width="770" height="634" alt="Image" src="https://github.com/user-attachments/assets/efec678f-f5f3-4fe0-99f7-62f35ad6fa45" />
